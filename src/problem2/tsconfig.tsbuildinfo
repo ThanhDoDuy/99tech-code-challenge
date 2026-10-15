@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/api/tokens.ts","./src/components/swapform.tsx","./src/components/tokenicon.tsx","./src/components/tokenselect.tsx","./src/hooks/usetokens.ts","./src/utils/format.ts"],"errors":true,"version":"5.9.3"}

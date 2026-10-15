@@ -1,0 +1,23 @@
+{
+  "name": "99tech-code-challenge",
+  "version": "1.0.0",
+  "description": "99Tech code challenge — Problem 4 (sum to n) & Problem 2 (currency swap)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test src/problem4/index.test.js src/problem3/logic.test.js",
+    "test:problem4": "node --test src/problem4/index.test.js",
+    "test:problem3": "node --test src/problem3/logic.test.js",
+    "problem2:install": "npm --prefix src/problem2 install",
+    "problem2:dev": "npm --prefix src/problem2 run dev",
+    "problem2:build": "npm --prefix src/problem2 run build",
+    "problem2:preview": "npm --prefix src/problem2 run preview",
+    "problem5:install": "npm --prefix src/problem5 install",
+    "problem5:dev": "npm --prefix src/problem5 run dev",
+    "problem5:build": "npm --prefix src/problem5 run build",
+    "problem5:start": "npm --prefix src/problem5 start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
